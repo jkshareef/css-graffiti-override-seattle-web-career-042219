@@ -91,6 +91,6 @@ body div#wall div.parent div > #tag-7.slick {
   display: block;
 }
 
-body div#wall div.parent div > #tag-7.slick wrapped {
+body div#wall div.parent div > #tag-7.slick .wrapped {
   display: none;
 }
