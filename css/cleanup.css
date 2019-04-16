@@ -42,7 +42,7 @@ body {
 }
 
 div#wall div#tag-2 {
-  display: none;
+  display: block;
 }
 
 div#wall #tag-3.slick {
