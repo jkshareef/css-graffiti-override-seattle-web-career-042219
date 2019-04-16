@@ -65,13 +65,13 @@ div#wall #tag-3.slick wrapped{
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+div#wall .parent. #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: block;
 }
 
-div#wall div.parent #tag-5.slick {
+div#wall div.parent:last-child #tag-5.slick {
   display: none;
 }
 
