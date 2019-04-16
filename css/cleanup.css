@@ -51,7 +51,7 @@ div#wall #tag-3.slick {
   display: block;
 }
 
-body #wall div >  div#tag-3.slick {
+body div#wall > div >  div#tag-3.slick {
   display: none
 }
 
