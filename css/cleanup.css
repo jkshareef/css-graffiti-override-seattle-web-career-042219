@@ -32,7 +32,7 @@ body {
 }
 
 #wall .tag-1 {
-  display: none
+  display: block
 }
 
 #wall #tag-2 {
