@@ -41,7 +41,9 @@ body {
   display: block;
 }
 
-div#wall div 
+div#wall div#tag-3 {
+  display: none;
+}
 
 div#wall #tag-3.slick {
   background: url(../images/tag-3.png) no-repeat;
