@@ -60,10 +60,6 @@ div#wall div.parent div:last-child div#tag-6 {
   display: block;
 }
 
-body div#wall div.parent div:last-child div#tag-6 {
-  display: none;
-}
-
 
 body div#wall div.parent div > #tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
@@ -71,6 +67,3 @@ body div#wall div.parent div > #tag-7.slick {
   display: block;
 }
 
-body div#wall div.parent div > #tag-7.slick {
-  
-}
