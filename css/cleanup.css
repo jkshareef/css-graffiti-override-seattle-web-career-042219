@@ -71,7 +71,7 @@ div#wall .parent. #tag-5.slick {
   display: block;
 }
 
-div#wall > div.parent:first-child #tag-5.slick {
+div#wall > div.parent > first-child #tag-5.slick {
   display: none;
 }
 
